@@ -122,7 +122,7 @@ PythoEditor/
 
 | 기능 | 이미지 예시 |
 |------|--------------|
-| 흑백 변환 | <img src="gray_sample.png" width="600"/> |
+| 흑백 변환 | <img src="gray_sample.png" width="240"/> |
 | 밝기 조절 | ![bright](bright_sample.png) |
 | 엣지 검출 | ![edge](edge_sample.png) |
 
