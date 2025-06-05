@@ -3,8 +3,8 @@
 **PythoEditor**는 간단한 GUI 기반의 이미지 편집 도구입니다.  
 초보자도 직관적으로 사용할 수 있도록 설계되었으며, 주요 이미지 필터와 효과를 손쉽게 적용할 수 있습니다.
 
-![PythoEditor 메인 화면](docs/images/main_menu.png)  
-![편집 화면 예시](docs/images/edit_mode.png)
+![PythoEditor 메인 화면](main_menu.png)  
+![편집 화면 예시](edit_mode.png)
 
 ## 🎬 소개 영상
 
