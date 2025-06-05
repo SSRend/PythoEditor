@@ -43,14 +43,15 @@
 
 ### 🔧 Python 환경에서 실행 (권장 방식)
 
-1. **Python 3.10 이상**이 설치되어 있어야 합니다.
-2. 필요한 패키지를 설치합니다:
+1. 깃허브에 PythoEditor.zip을 다운로드 받고, 압축을 해제합니다.
+2. **Python 3.10 이상**이 설치되어 있어야 합니다.
+3. 필요한 패키지를 설치합니다:
 
 ```bash
 pip install pygame opencv-python numpy
 ```
 
-3. 터미널(cmd, PowerShell 등) 또는 VS Code에서 **`main.py`가 있는 폴더로 이동한 뒤**, 아래 명령어를 실행합니다:
+4. 터미널(cmd, PowerShell 등) 또는 VS Code에서 **`main.py`가 있는 폴더로 이동한 뒤**, 아래 명령어를 실행합니다:
 
 ```bash
 python main.py
