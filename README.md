@@ -8,7 +8,7 @@
 
 ## 🎬 소개 영상
 
-👉 [YouTube 링크 보기](https://www.youtube.com/your_video_link_here)
+👉 [YouTube 링크 보기](https://www.youtube.com/cFqQS-OgYSI?si=2eqd3Uili7tEi6EJ)
 
 ---
 
