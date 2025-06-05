@@ -126,8 +126,6 @@ PythoEditor/
 | 밝기 조절 | ![bright](docs/images/bright_sample.png) |
 | 엣지 검출 | ![edge](docs/images/edge_sample.png) |
 
-> 위 이미지는 `docs/images`에 저장해 함께 배포하면 됩니다.
-
 ---
 
 ## 📣 라이선스
