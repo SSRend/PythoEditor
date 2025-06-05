@@ -8,6 +8,7 @@
 
 ## 🎬 소개 영상
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cFqQS-OgYSI/0.jpg)](https://www.youtube.com/watch?v=cFqQS-OgYSI)
+
 클릭 시, 유튜브로 이동합니다.
 
 ---
