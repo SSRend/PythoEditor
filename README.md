@@ -37,15 +37,52 @@
 
 ---
 
-## 💻 실행 환경
+---
 
-- Python 3.10 이상 권장
-- 필수 패키지:
-  ```bash
-  pip install pygame opencv-python numpy
-  ```
+## 🚀 실행 방법
 
-> ⚠️ 실행 파일 제작 시 PyInstaller를 사용하며, `assets`, `images`, `lib` 폴더를 함께 배포해야 합니다.
+### 🔧 Python 환경에서 실행 (권장 방식)
+
+1. **Python 3.10 이상**이 설치되어 있어야 합니다.
+2. 필요한 패키지를 설치합니다:
+
+```bash
+pip install pygame opencv-python numpy
+```
+
+3. 터미널(cmd, PowerShell 등) 또는 VS Code에서 **`main.py`가 있는 폴더로 이동한 뒤**, 아래 명령어를 실행합니다:
+
+```bash
+python main.py
+```
+
+> ⚠️ `assets`, `images`, `lib` 폴더는 `main.py`와 동일한 경로에 있어야 합니다.  
+> ⚠️ 터미널의 **작업 디렉토리(current working directory)**는 반드시 `main.py`가 위치한 폴더여야 합니다.
+
+> 예시:
+> ```bash
+> cd PythoEditor
+> python main.py
+> ```
+
+---
+
+### 실행 파일 제작 시 참고 (선택 사항)
+
+- 실행 파일은 **PyInstaller**를 사용해 만들 수 있습니다.
+- 이 경우, 아래 폴더들을 함께 배포해야 합니다:
+  - `assets` : 배경 이미지, 폰트, 사운드 등 리소스
+  - `images` : 이미지 저장 폴더
+  - `lib` : 내부 기능 모듈들
+
+```bash
+pyinstaller main.py --noconsole --onefile
+```
+
+> ⚠️ 실행 파일(`.exe`)은 용량이 매우 클 수 있으며, 이 프로젝트는 `.py` 실행을 권장합니다.
+
+---
+
 
 ---
 
