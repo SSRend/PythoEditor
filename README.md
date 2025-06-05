@@ -117,11 +117,11 @@ PythoEditor/
 
 ## 📌 미리보기
 
-| 기능 | 이미지 예시 |
-|------|--------------|
-| 흑백 변환 | ![gray](gray_sample.png) |
-| 밝기 조절 | ![bright](bright_sample.png) |
-| 엣지 검출 | ![edge](edge_sample.png) |
+| 기능       | 이미지 예시                                            |
+|------------|---------------------------------------------------------|
+| 흑백 변환  | <img src="gray_sample.png" width="300"/>               |
+| 밝기 조절  | <img src="bright_sample.png" width="300"/>             |
+| 엣지 검출  | <img src="edge_sample.png" width="300"/>               |
 
 ---
 
