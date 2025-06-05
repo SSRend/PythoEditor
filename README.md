@@ -4,7 +4,6 @@
 초보자도 직관적으로 사용할 수 있도록 설계되었으며, 주요 이미지 필터와 효과를 손쉽게 적용할 수 있습니다.
 
 ![PythoEditor 메인 화면](main_menu.png)  
-![편집 화면 예시](edit_mode.png)
 
 ## 🎬 소개 영상
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cFqQS-OgYSI/0.jpg)](https://www.youtube.com/watch?v=cFqQS-OgYSI)
