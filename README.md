@@ -7,9 +7,9 @@
 ![편집 화면 예시](edit_mode.png)
 
 ## 🎬 소개 영상
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cFqQS-OgYSI/0.jpg)](https://www.youtube.com/watch?v=pfahNW5eyLI)
 
-[![Video Label]()](https://youtu.be/cFqQS-OgYSI?si=nbkeGx0V4baaHH8-)
-
+클릭 시, 유튜브로 이동합니다.
 ---
 
 ## 🛠️ 주요 기능
