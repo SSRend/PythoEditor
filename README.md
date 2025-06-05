@@ -91,15 +91,20 @@ pyinstaller main.py --noconsole --onefile
 ```
 PythoEditor/
 ├── assets/            # 배경 이미지, 사운드, 폰트 등
-│   ├── title_screen.png
+│   ├── click.wav
 │   ├── edit_mode.png
 │   ├── main_theme.wav
-│   └── SCDream7.otf
+│   ├── SCDream7.otf
+│   └── title_screen.png
 ├── images/            # 유저가 만든 이미지 저장 경로 (최대 20개)
 ├── lib/
-│   └── edit_mode.py   # 편집 모드 메인 기능
-├── main.py            # 실행 진입점
-└── README.md
+│   ├── __init__.py
+│   ├── edit_mode.py   # 편집 모드 메인 기능
+│   ├── mainMenu.py    # 메인 화면
+│   ├── settings.py    # 설정 값들
+│   ├── tempCodeRunnerFile.py
+│   └── ui_components.py
+└── main.py            # 실행 진입점
 ```
 
 ---
