@@ -83,9 +83,6 @@ pyinstaller main.py --noconsole --onefile
 
 ---
 
-
----
-
 ## 📦 폴더 구조
 
 ```
